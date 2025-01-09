@@ -2,7 +2,7 @@
 
 ### How to clone this repository
 ```sh
-git clone https://github.com/rsuntkOrgs/android_kernel_samsung_a23.git -b fourteen
+git clone https://github.com/Prettysir/android_kernel_samsung_a23.git -b fourteen
 ```
 
 ### Credits
